@@ -1,0 +1,4 @@
+name: Shop
+title: Shop
+version: 1.0.0
+start_page: ROOT:about.adoc
