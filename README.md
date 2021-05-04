@@ -1,0 +1,1 @@
+# antora-poc-module-shop-ws
